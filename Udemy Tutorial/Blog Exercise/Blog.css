@@ -1,0 +1,50 @@
+* {
+	border: 1px solid white;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-family: 'Slabo 27px', serif;
+}
+
+h2: {
+	font-family: 'Slabo 27px', serif;
+}
+
+body {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 30px auto 30px auto;
+	border: 15px solid lightgrey;
+	padding: 15px;
+}
+
+.date {
+	color: blue;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size: 01.1em;
+	margin-bottom: 0px;
+	font-weight: 100;
+	
+}
+
+.quote {
+	margin-left: 15px;
+	border-left: 2px solid darkgrey;
+	padding-left: 15px;
+	color: darkgrey;
+	
+}
+
+.post {
+	margin-top: 0px;
+	padding: 5px 0px 5px 0px; 
+}
+
+hr {
+	width: 95%;
+}
